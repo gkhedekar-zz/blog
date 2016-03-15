@@ -1,0 +1,5 @@
+Mar 15:
+1. check freeze
+2. make the database either with sqlite or mysql
+3. make the sign in page which will take the user to the profile page
+ 
